@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Yellow! This is my first caption!
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}

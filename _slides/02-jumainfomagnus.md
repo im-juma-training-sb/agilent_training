@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Comment for first commit. Do not remember where I committed. The force is us.
 
-![poptocat](https://octodex.github.com/images/poptocat.png)
+![poptocat](https://octodex.github.com/images/stormtroopocat.png)
 {: .center}

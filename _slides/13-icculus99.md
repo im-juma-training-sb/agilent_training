@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-I don't like these changes 
+This is my caption from my local machine!
 ![inflatocat](https://octodex.github.com/images/jenktocat.jpg)
 

@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-Hello!
+Made some changes from the command line - 
 ![inflatocat](https://octodex.github.com/images/jenktocat.jpg)
 

@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello I am here editing the caption
+Hi I am here editing the caption from my local machine
 
-![octocat-de-los-muertos](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
+![benevocats](https://octodex.github.com/images/benevocats.png))
 {: .center}

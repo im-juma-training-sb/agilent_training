@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-This is a cute cat!
+This is the Iron Cat!
 
 ![ironcat](https://octodex.github.com/images/ironcat.jpg)
 {: .center}

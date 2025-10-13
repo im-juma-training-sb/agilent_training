@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+This is the Iron Cat!
 
-![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
+![ironcat](https://octodex.github.com/images/ironcat.jpg)
 {: .center}
